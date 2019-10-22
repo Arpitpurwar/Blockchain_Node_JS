@@ -1,2 +1,2 @@
-# Blockchain_Node_JS
-Implemented Shared ledger with Proof of work &amp; hashing mechnisam in Node JS
+# blockchain_solution_JS
+Blockchain solution with Javascript
